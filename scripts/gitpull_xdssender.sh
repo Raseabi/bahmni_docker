@@ -2,4 +2,4 @@
 
 git fetch --all
 
-git pull origin xdssender_build
+git pull origin xds_sender_build
